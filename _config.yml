@@ -22,7 +22,7 @@ weibo_username:     junweiyu
 zhihu_username:     junwei-yu
 github_username:    fiveyu
 #facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
+jianshu_username:   61a21a118fbf
 #twitter_username:   qiubaiying
 
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "作品集",
+        href: "http://fiveyu.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·FY",
+        href: "https://www.jianshu.com/u/61a21a118fbf"
     },{
         title: "Apple",
         href: "https://apple.com"
