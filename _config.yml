@@ -1,16 +1,7 @@
 # Site settings
-<<<<<<< HEAD
-<<<<<<< HEAD
-title: FY Blog
-SEOTitle: FiveYu的博客 | FY Blog
-header-img: img/post-bg-desk.png
-=======
-=======
->>>>>>> dfd102c4a8a61971c0a65f1127ae74b18fedfee4
 title: YU Blog
 SEOTitle: FiveYu的博客 | YU Blog
-header-img: img/post-bg-desk.jpg
->>>>>>> dfd102c4a8a61971c0a65f1127ae74b18fedfee4
+header-img: img/post-bg-desk.png
 email: yu8656302@126.com
 description: "Every failure is leading towards success."
 keyword: "YU, YU Blog, FiveYu的博客, yujunwei, 俞俊伟, Design, Apple, 设计博客"
